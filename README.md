@@ -5,5 +5,5 @@ um quiz de matematica com 6 estagios de 6 fases, cada fase conta pontuação de 
 # amplitude
 uma atividade do curso que tem como objetivo imprimir a amplitude de uma lista
 
-#imprimir uma string letra por letra
+# imprimir uma string letra por letra
 (autoexplicativo)
